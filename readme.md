@@ -23,5 +23,7 @@ npm run build
 npm run preview
 ```
 
+`npm test` runs the production build as a smoke test.
+
 
 The Vercel project can use the default Vite settings: `npm run build` as the build command and `dist` as the output directory. Update the contact address in `index.html` when the production inbox is ready.
